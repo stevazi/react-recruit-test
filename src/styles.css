@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.component {
+  margin: 20px;
+  border: 1px dashed blue;
+  padding: 10px;
+}
